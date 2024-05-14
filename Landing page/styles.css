@@ -149,13 +149,13 @@ header .fa-bars{
 
 }
 
-.about .row .video-container{
+.about .row .image-container{
     flex: 1 1 40rem;
     position: relative;
 }
 
 
-.about .row .video-container video{
+.about .row .image-container image{
     width: 100%;
     border: 1.5rem solid #fff;
     border-radius: .5rem;
@@ -164,7 +164,7 @@ header .fa-bars{
 }
 
 
-.about .row .video-container h3{
+.about .row .image-container h3{
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
